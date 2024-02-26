@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Creative Front-End Developer 🚀
+Hello! My name is Rishi and I enjoy creating things that exist on the internet I have a serious passion for UI effects, animations, and creating intuitive, dynamic user experiences. Interested in working on ambitious projects with positive people. 🚀
 
 
 ## 🌐 Socials:
