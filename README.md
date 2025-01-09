@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hello! My name is Rishi and I enjoy creating things that exist on the internet I have a serious passion for UI effects, animations, and creating intuitive, dynamic user experiences. Interested in working on ambitious projects with positive people. 🚀
+Hi, I’m Rishi! I’m a passionate Computer Science graduate student with a strong focus on building scalable, secure, and intuitive web applications. I thrive on solving complex problems through software development, automation, and system integration.
+
+With hands-on experience in Full-Stack Development, I specialize in ReactJS, NodeJS, and MongoDB, along with a solid understanding of authentication systems, REST APIs, and cloud-based solutions. My recent projects include a decentralized file-sharing platform and a developer-focused portfolio-sharing application, showcasing my ability to combine technical skills with user-centered design.
+
+I’m currently expanding my expertise in Azure cloud services, Kubernetes, and Terraform, focusing on building automated, containerized workflows for large-scale systems.
+
+I’m always excited to collaborate with innovative teams on ambitious projects that make a meaningful impact. Let’s connect and build something amazing together!🚀
 
 
 ## 🌐 Socials:
